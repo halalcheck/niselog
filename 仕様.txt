@@ -1,0 +1,1 @@
+﻿トムスwpの場所	ftp://test-tms.sakura.ne.jp//home/test-tms/www/cojp/htdocs/50th/teaser/wp-content/themes/teaser	各プロジェクトの個別ページをどう処理するのか？トップからの個別ページと混
